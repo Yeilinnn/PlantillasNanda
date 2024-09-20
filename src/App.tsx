@@ -1,10 +1,12 @@
 
-import ConstanciaSalario from './Componentes/ConstanciaSalarial';
+import Planilla from './Componentes/Planilla';
 
 function App() {
   return (
     <div className="App">
-      <ConstanciaSalario/> 
+      <Planilla/>
+
+
     </div>
   );
 }
